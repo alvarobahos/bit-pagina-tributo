@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-prueba pagina web tributo
+Prueba pagina web tributo
 
 ### AUTOR
 
